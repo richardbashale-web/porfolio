@@ -16,6 +16,7 @@ export const featuredProject = {
     "/images/assistant/cover.png",
     "/images/assistant/chatbot.png",
     "/images/assistant/login.png",
+    "/images/assistant/student.png",
   ],
 
   features: [
